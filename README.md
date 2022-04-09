@@ -1,5 +1,9 @@
 <h1>ReactJs Course, Proyecto n|2 del curso realizado con FreeCodeCamp ES</h1>
 
+
+
+<h2>En este proyecto me he capacitado en: </h2>
+
 Proyecto 2: Contador de Clics
 - Inicio del Proyecto
 - Crear la aplicación
